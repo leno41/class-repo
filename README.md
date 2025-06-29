@@ -14,7 +14,7 @@ This repository contains files for my GitHub assignment, demonstrating version c
 - Git Bash
 
 ## Author
-[Your Name]
+[Glen Otieno]
 
 ## Date
-[Current Date]
+[28th Jun 2025]
